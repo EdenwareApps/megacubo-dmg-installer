@@ -1,2 +1,2 @@
 # megacubo-dmg-installer
-Mac installer for Megacubo project.
+Mac installer build script for Megacubo project.
